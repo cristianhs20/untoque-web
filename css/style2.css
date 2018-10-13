@@ -574,7 +574,7 @@ header{
 }
 .overlay-video {
 	width: 200%;
-	position: fixed;
+	position: absolute;
 	margin-left: -200px;
 }
 .scroll-btn .mouse{
